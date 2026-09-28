@@ -2,7 +2,7 @@
 set -e
 
 # Variables
-BUCKET_NAME="quiz-arena-web-<quiz-arena-web-flopy2026>"
+BUCKET_NAME="quiz-arena-web-flopy2026"
 REGION="us-east-1"
 
 echo "Verificando identidad AWS..."
